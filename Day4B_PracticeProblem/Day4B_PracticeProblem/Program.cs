@@ -4,8 +4,14 @@
     {
         public static void Main(string[] args)
         {
-            DuplicateClass duplicate = new DuplicateClass();
-            duplicate.Method();
+            //UC1
+            //DuplicateClass duplicate = new DuplicateClass();
+            //duplicate.Method();
+
+            //UC2
+            UniqueElement uniqueElement = new UniqueElement();
+            uniqueElement.Unique();
+            Console.ReadKey();
         }
     }
 }
