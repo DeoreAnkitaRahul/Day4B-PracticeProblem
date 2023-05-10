@@ -6,9 +6,8 @@
         {
            
 
-           ReverseString reverseString = new ReverseString();   
-            reverseString.Method();
-
+         SumOfDigit sum = new SumOfDigit();
+            sum.Method();
             Console.ReadKey();
 
            
