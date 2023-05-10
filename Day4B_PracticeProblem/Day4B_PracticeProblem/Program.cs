@@ -6,8 +6,8 @@
         {
            
 
-            Pattern max = new Pattern();
-            max.Method();
+           ReverseString reverseString = new ReverseString();   
+            reverseString.Method();
 
             Console.ReadKey();
 
