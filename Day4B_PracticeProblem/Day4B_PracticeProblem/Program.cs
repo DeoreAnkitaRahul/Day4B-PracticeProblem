@@ -6,7 +6,7 @@
         {
            
 
-            MinMax max = new MinMax();
+            Pattern max = new Pattern();
             max.Method();
 
             Console.ReadKey();
